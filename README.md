@@ -6,6 +6,6 @@ def draw_ondrag(x,y):
     t.goto(x,y)
     t.ondrag(draw_ondrag)
 ```
-+ This is more important in this code.
++ This code is most important in this code.
 + This code can make our drawing in output console.
 -----
